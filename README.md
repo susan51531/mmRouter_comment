@@ -357,4 +357,3 @@ opts.viewCache 是否缓存这个模板生成的dom，设置会覆盖dom元素�
 
 
 具体可以看<https://github.com/gogoyqj/mmRouter-demo-list>例子
-
